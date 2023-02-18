@@ -1,4 +1,4 @@
-# Aplicacion de los personajes en Ricky and Morty.
+# Aplicacion para visualizar los personajes de Ricky and Morty.
 
 ## **Indice**
 
