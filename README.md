@@ -1,19 +1,21 @@
-# Aplicacion para visualizar los personajes de Ricky and Morty.
+# 🛸 Aplicación de Personajes de Rick and Morty
 
-## **Indice**
+## 📋 Descripción
+Este proyecto es una aplicación web desarrollada en JavaScript, CSS y HTML que permite a los usuarios explorar y visualizar información sobre los personajes de la popular serie animada Rick and Morty. La aplicación muestra detalles como:
+* Nombre del personaje
+* Imagen
+* Especie
+* Estado (si están vivos o muertos)
+* Numero de episodios en los que aparecen
 
-* [1. Intro](#)
-* [2. Objetivo del proyecto](#)
-* [3. Link a Demo](#)
+## 🌟 Características
+* Interfaz amigable y fácil de usar.
+* Búsqueda y filtrado de personajes por nombre, especie y estado.
+* Listados dinámicos que se actualizan automáticamente según los filtros aplicados.
+* Información detallada de cada personaje al hacer clic en su tarjeta.
+* Diseño responsive, adaptado para dispositivos móviles y de escritorio.
 
-****
+## 🚀 Demo en Vivo
+Puedes ver la aplicación en acción visitando el siguiente enlace:
 
-## 1. Intro
-
-Este proyecto muestra los personajes que aparecen en Ricky and Morty, con las caracteristicas de especie, espisodios incluso de vive o murio en alguno de ellos.
-
-## 2. Objectivo el proyecto
-Aprender a utilizar React.
-
-## 3. Link a Demo
-Aqui puedes visualizar mi proyecto terminado: [Aplicacion de los personajes de Ricky and Morty](https://denisags-rickymorty.netlify.app/)
+🔗: [Aplicacion de los personajes de Ricky and Morty](https://denisags-rickymorty.netlify.app/)
